@@ -4,8 +4,11 @@
   "slug": "demo",
   "description": "test demo addon",
   "url": "https://github.com/numbat2k/demo-addon",
-  "startup": "application",
+  "startup": "before",
   "boot": "auto",
   "options": {},
-  "schema": {}
+  "schema": {},
+  "ports": {
+    "8000/tcp": 8000
+  }
 }
