@@ -1,0 +1,7 @@
+{
+  "squash": false,
+  "build_from": {
+    "amd64": "ghcr.io/hassio-addons/base/amd64:10.0.2"
+  },
+  "args": {}
+}
