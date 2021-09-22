@@ -1,0 +1,11 @@
+{
+  "name": "demo addon",
+  "version": "dev",
+  "slug": "demo",
+  "description": "test demo addon",
+  "url": "https://github.com/numbat2k/demo-addon",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
